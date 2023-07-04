@@ -1,0 +1,21 @@
+{
+    "caseDefault": {
+        "massaNome": "Despachante Automação",
+        "massaRegistro": "8D.02.376",
+        "massaCnpj": "12345678000190",
+        "massaCep": "12345-678",
+        "massaLogradouro": "Rua Fictícia",
+        "massaNumero": "123",
+        "massaBairro": "Bairro Fictício",
+        "massaSelectEstado": "São Paulo",
+        "massaSelectCidade": "São Paulo",
+        "massaTelefone": "1198765-4321",
+        "massaLimiteDeRecolhimento": "1.000,00",
+        "massaSelectPeriodo": "Mensal",
+        "massaSelectSobre": "Serviços de despachante",
+        "massaSelectSindicato": "SDAS",
+        "massaCertificadoDigital": "1234567890"
+    }
+
+}
+  

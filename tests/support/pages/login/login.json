@@ -1,0 +1,22 @@
+{
+    "sucess" : {
+        "name" : "richard.aleixo",
+        "password": "Quick@142143"
+    }, 
+    "failureName" : {
+        "name" : "erro",
+        "password": "Quick@142143"
+    },
+    "failurePassword" : {
+        "name" : "richard.aleixo",
+        "password": "erro123"
+    },
+    "failure" : {
+        "name" : "erro",
+        "password": "erro123"
+    },
+    "required" : {
+        "name" : "",
+        "password": ""
+    }
+}

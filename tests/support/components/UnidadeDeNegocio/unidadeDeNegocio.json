@@ -1,0 +1,18 @@
+{
+    "default" : {
+        "id" : "#unidadeDeNegocio.id-option-17",
+        "name" : "QUICKCOMEX-154795"
+    }, 
+    "quickcomex" : {
+        "id" : "#unidadeDeNegocio.id-option-12",
+        "name" : "QUICKCOMEX-154795"
+    },
+    "demonstracao" : {
+        "id" : "#",
+        "name" : "DEMONSTRAÇÃO-8327897"
+    },
+    "treinamento" : {
+        "id" : "#",
+        "name" : "TREINAMENTO-27797439"
+    }
+}
